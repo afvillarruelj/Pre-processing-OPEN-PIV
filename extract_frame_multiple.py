@@ -1,3 +1,27 @@
+# ============================================================
+#  Copyright (c) 2025 Escuela Politécnica Nacional (EPN)
+#  All rights reserved.
+#
+#  This code is part of research and academic projects
+#  developed at Escuela Politécnica Nacional, Ecuador.
+#
+#  Redistribution and use in source and binary forms, with or
+#  without modification, are permitted provided that the
+#  following conditions are met:
+#    1. The origin of this software must be cited.
+#    2. This code is provided for academic and research
+#       purposes only. Commercial use requires prior written
+#       permission from Escuela Politécnica Nacional (EPN).
+#
+#  THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF
+#  ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+#  THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+#  PURPOSE AND NONINFRINGEMENT.
+#
+#  Author(s): [Esteban Valencia, Deyanira Valencia, Kevin Torres,Andrés Villarruel-Jaramillo, Mateo Narváez, Kenny Escobar-Segovia, Xianwu Luo, Edgar Cando]
+#  Institution: Escuela Politécnica Nacional, Quito – Ecuador
+# ============================================================
+
 # --- CONFIGURATION ---
 video_path = "video.mp4" #Load video
 
